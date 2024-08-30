@@ -1,3 +1,4 @@
+const dummy = 1;
 var canvaswidth = 300;
 var canvasheight = 600;
 var cellsize = 20;
